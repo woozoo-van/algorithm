@@ -19,4 +19,5 @@
 
 :x:
 
-- [:white_check_mark:] 2023 / 1 / 13
+- [:white_check_mark:] 2023 / 1 / 13 : Beginner
+- [:white_check_mark:] 2023 / 1 / 14 : Arrays 101
